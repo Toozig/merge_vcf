@@ -30,7 +30,7 @@ This Bash script, named `merge_vcfs.sh`, is designed to perform genomic operatio
 The sample metadata file (`metadata.csv`) is expected to have the following format:
 
 ```plaintext
-ID, family_id, fam_relation, fam_relation_description, #_chrom, Karyotype, Phenotype, source
+ID, family_id, fam_relation
 AS22WG001, 10726, 0
 AS22WG002, 10726, 2
 AS22WG003, 10726, 1
